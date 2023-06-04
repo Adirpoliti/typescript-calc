@@ -16,8 +16,14 @@ c = new Date();
 var f;
 f = "hello";
 f = 250;
-// --------------------------------------------------
+// --------------------------------F U N C T I O N S-------------------------------- \\
 function func(age, name) {
     console.log(name + " is " + age + " years old");
 }
 func(23, "Adir");
+function func2() {
+    console.log("another function");
+}
+function func3() {
+    console.log("my third function");
+}
